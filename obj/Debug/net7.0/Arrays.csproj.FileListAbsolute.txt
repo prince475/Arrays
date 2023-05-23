@@ -1,0 +1,15 @@
+/home/prince/Development/CsharpProjects/Arrays/bin/Debug/net7.0/Arrays
+/home/prince/Development/CsharpProjects/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/home/prince/Development/CsharpProjects/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/home/prince/Development/CsharpProjects/Arrays/bin/Debug/net7.0/Arrays.dll
+/home/prince/Development/CsharpProjects/Arrays/bin/Debug/net7.0/Arrays.pdb
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.dll
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.pdb
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/home/prince/Development/CsharpProjects/Arrays/obj/Debug/net7.0/ref/Arrays.dll
